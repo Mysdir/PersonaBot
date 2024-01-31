@@ -1,3 +1,6 @@
-wget
-llama2
+langchain 
+wget 
+llama-index 
+cohere 
+llama-cpp-python
 streamlit
