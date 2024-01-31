@@ -1,2 +1,3 @@
+wget
+llama2
 streamlit
-replicate
